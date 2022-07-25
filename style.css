@@ -1,0 +1,124 @@
+body {
+    background: #9370DB;
+    font-family: Verdana;
+    max-width: 900px;
+    margin: auto;
+}
+
+.photo {
+    border: 1px solid #E0FFFF;
+    border-radius: 50px;
+    margin: auto;
+    width: 40%;
+}
+
+.post_Eu {
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#title {
+    color: #4B0082;
+    font-size: 40px;
+    padding: 5px;
+    text-transform: uppercase;
+    margin: auto;
+    text-align: center;
+}
+
+.subtitle {
+    color: #4B0082;
+    font-size: 20px;
+    margin: auto;
+    margin: 10px 5px 10px 5px;
+}
+
+.post_title {
+    color: #4B0082;
+    font-size: 20px;
+}
+
+.contatos {
+    color: #4B0082;
+}
+
+a {
+    text-decoration: line-through;
+    color: #FFFAFA;
+}
+
+.post_title {
+    font-size: 16px;
+    font-style: italic;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.post {
+    background: #E6E6FA;
+    padding: 15px;
+    border: 3px solid #E0FFFF;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.post_content {
+    margin: 0;
+    margin-bottom: 15px;
+    text-align: justify;
+    text-decoration: none;
+    color: #4B0082;
+}
+
+.post_image {
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.cursos_feitos {
+    color: #4B0082;
+    font-size: 20px;
+    margin: auto;
+    margin: 10px 5px 10px 5px;
+}
+
+.cursos {
+    margin: 0;
+    margin-bottom: 15px;
+    text-align: justify;
+    text-decoration: none;
+    color: #4B0082;
+}
+
+.cursos_texto {
+    background: #E6E6FA;
+    border: 3px solid #E0FFFF;
+    border-radius: 5px;
+    margin: auto;
+    text-align: justify;
+    color: #4B0082;
+    font-family: Verdana;
+}
+
+.container {
+    margin: 0;
+    margin-bottom: 15px;
+    text-align: justify;
+    text-decoration: none;
+    background: #E6E6FA;
+}
+
+.contacts_list {
+    list-style-type: none;
+    padding-left: 15px;
+}
+.contacts_list li a {
+    text-decoration: none;
+}
+
+.contacts_list {
+    font-size: 16px;
+    text-decoration: none;
+}
